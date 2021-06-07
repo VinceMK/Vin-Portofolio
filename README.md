@@ -2,8 +2,7 @@
 
 # Name
 
-# Description. Let people know what your project can do specifically. ...
-
+# Description. 
 # Installation. ...
 
 # Usage. ...
