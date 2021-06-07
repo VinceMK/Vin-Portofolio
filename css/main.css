@@ -1,11 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wgjt@0,300;1,100&display=swap");
+
 header.masthead {
     padding-top: 10rem;
     padding-bottom: calc(10rem - 4.5rem);
-    background: linear-gradient(to bottom, rgba(166, 221, 209, 0.8) 0%, rgba(66, 92, 91, 0.8) 100%), url("/img/bg.jpg");
+    background: linear-gradient(to bottom, rgba(166, 221, 209, 0.8) 0%, rgba(66, 92, 91, 0.8) 100%), url("/img/8942d1e4ffbac079645f65c5f61e0520.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-size: cover;
+    
   }
   header.masthead h1, header.masthead .h1 {
     font-size: 2.25rem;
