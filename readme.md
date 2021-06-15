@@ -1,13 +1,21 @@
-# Title
-Portofolio IP1
 
-# Name
-Hi 👋, I'm Vincent Mwangi
-A passionate frontend developer 
+# Vin-Portofolio
+
+Vinportofolio is a Personal portofolio for dealing showcasing projects  and learning while at a Bootcamp.
+
+## Installation
+
+ little required other than a browser.
+
+## Usage
+    Showcase Projects
+
+## Contributing
+ N/A 
 
 
-# Languages and Tools:
-HTML | CSS | BOOTSTRAP
+## License
+General fair usage
 
-
-
+## Done by
+Vincent Inc.
